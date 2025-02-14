@@ -1,7 +1,9 @@
 ---
 title: 10. Post
 layout: post
-categories: ['new']
+categories:
+  - new
+date: '2025-02-14'
 ---
 
 #### test heading 4
