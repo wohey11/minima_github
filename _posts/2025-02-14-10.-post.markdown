@@ -3,6 +3,21 @@ title: 10. Post
 layout: post
 categories: ['new']
 ---
+
 #### test heading 4
+
 {{ site.date | date: ' %b %d, %Y' }}
 mal sehen...
+
+* [ ] erstens
+* [ ] zweitens
+* [ ] drittens
+
+```das
+mal sehen ...
+```
+
+was jetzt
+
+![](assets/20250214_195342_IMG_20210106_104145_freigestellt_sharp.jpg)
+
