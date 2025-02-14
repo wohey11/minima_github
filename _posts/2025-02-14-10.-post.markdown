@@ -1,10 +1,11 @@
 ---
-title: 10. Post JekyllPad
+title: 10. Post JekyllPad _posts
 layout: post
 categories:
   - new
 date: '2025-02-14'
 ---
+
 
 #### test heading 4
 
@@ -21,5 +22,5 @@ mal sehen ...
 
 was jetzt
 
-![](assets/20250214_195342_IMG_20210106_104145_freigestellt_sharp.jpg)
+![](_posts/assets/20250214_195342_IMG_20210106_104145_freigestellt_sharp.jpg)
 
