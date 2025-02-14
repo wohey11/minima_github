@@ -1,5 +1,5 @@
 ---
-title: 10. Post
+title: 10. Post JekyllPad
 layout: post
 categories:
   - new
