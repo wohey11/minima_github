@@ -3,11 +3,10 @@ title: 10. Post
 layout: post
 categories: ['new']
 ---
-
 #### test heading 4
 
 {{ site.date | date: ' %b %d, %Y' }}
-mal sehen...
+mal sehen... , mit Bild!
 
 * [ ] erstens
 * [ ] zweitens
@@ -20,4 +19,5 @@ mal sehen ...
 was jetzt
 
 ![](assets/20250214_195342_IMG_20210106_104145_freigestellt_sharp.jpg)
-
+# src="{{ '/assets/Full-HD-Video 1920x1080  px.mp4' | absolute_url }}"
+<img class="image" src="{{ '/assets/images/20250214_195342_IMG_20210106_104145_freigestellt_sharp.jpg' | absolute_url }}">
