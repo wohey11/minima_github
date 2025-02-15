@@ -1,8 +1,15 @@
 ---
-title: 10. Post
+title: 10. Post JekyllPad _posts
 layout: post
-categories: ['new']
+categories:
+  - new
+date: '2025-02-14'
 ---
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> bd7c7cc75ea3fd70a0e8ac36b8a6263e805ff460
 #### test heading 4
 
 {{ site.date | date: ' %b %d, %Y' }}
